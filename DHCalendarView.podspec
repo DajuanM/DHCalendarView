@@ -8,11 +8,11 @@
 
 Pod::Spec.new do |s|
 s.name         = "DHCalendarView"
-s.version      = "1.0.3"
+s.version      = "1.0.4"
 s.summary      = "日历"
 s.description  = <<-DESC
-                   好用的日历
-                 DESC
+好用的日历
+DESC
 s.homepage     = "https://github.com/DajuanM/DHCalendarView"
 s.license      = "MIT"
 s.author       = { "Aiden" => "252289287@qq.com" }
